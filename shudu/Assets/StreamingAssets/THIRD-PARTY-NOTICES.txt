@@ -1,0 +1,17 @@
+AREA GRID - Third-party notices
+
+Font: Area Grid Sans Medium, a Latin subset of Noto Sans SC.
+Original copyright: 2014-2021 Adobe, with Reserved Font Name 'Source'.
+Licensed under SIL Open Font License 1.1. Full text: FONT-LICENSE.txt.
+The subset has been renamed and retains the original copyright notices.
+
+Button audio: Kenney UI Audio (click1.ogg).
+Source: https://kenney.nl/assets/ui-audio
+License: Creative Commons CC0 1.0 Universal.
+License text: https://creativecommons.org/publicdomain/zero/1.0/legalcode
+The project owner confirmed Kenney as the source on 2026-09-17.
+The official UI Audio page lists CC0. click1.ogg matches the official archive by SHA-256.
+SHA-256: 59175AC17CD49A68DD736285738441287636112A84A6F7CE0D89921BDA5A5360
+
+Game illustrations: Created by the project owner with AI assistance,
+as confirmed by the project owner. Retain original project/source records.
